@@ -8,6 +8,16 @@ The aim is to analyze the sales performance of a retail store, to uncover insigh
 ## Approach
 Data Preparation:
 - Sales Data: The dataset includes details like product ID,product name,sales,date, quantity solld,region
-- Data Cleaning: Ensure there are no missing or inaccurate values,
+- Data Cleaning: Ensure there are no missing or inaccurate values
+
+Key Metrics:
+Total Sales: Measure of overall sales value.
+Top-selling Products: Products that contribute the most to revenue.
+Regional Sales: A breakdown of sales by different regions or stores.
+Monthly Trends: Insights into how sales vary over time.
+
+Insights To Explore:
+Top-selling Products: Analyze which products sell the most in terms of quantity and revenue. This helps identify inventory and marketing focus areas.
+Regional Performance: Compare the performance of stores andd regions. Highlights best-
 
 
